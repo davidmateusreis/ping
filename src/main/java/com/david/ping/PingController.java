@@ -14,7 +14,6 @@ public class PingController {
     @ResponseStatus(HttpStatus.OK)
     public void ping() {
 
-        System.out.println("Done!");
-        System.out.println("Live Reload won't work.");
+        System.out.println("Agora consigo fazer atualizações na aplicação sem a necessidade de recriar a imagem e o container!");
     }
 }
