@@ -15,5 +15,6 @@ public class PingController {
     public void ping() {
 
         System.out.println("Done!");
+        System.out.println("Live Reload won't work.");
     }
 }
