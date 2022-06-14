@@ -1,3 +1,2 @@
 # ping
-Ambiente de desenvolvimento no Docker.
-Com isso consigo fazer atualizações na aplicação remotamente, sem a necessidade de recriar a imagem ou o container!
+Ambiente de desenvolvimento Spring Boot usando Docker. Agora temos a possibilidade de fazer atualizações nas aplicaçãos remotamente, sem a necessidade de recriar a imagem ou o container!
